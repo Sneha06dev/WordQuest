@@ -2,7 +2,8 @@
 
 WordQuest is a captivating word guessing game where players decipher words based on hints. Test your vocabulary and deduction skills in this interactive challenge!
 
-![WordQuest Preview](preview.png)
+![Watch WordQuest Video Preview](https://github.com/user-attachments/assets/001ab762-920f-4322-be7d-28340851648d)
+
 
 ## Features
 
